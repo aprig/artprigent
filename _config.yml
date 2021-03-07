@@ -11,6 +11,7 @@ theme: jekyll-theme-minimal
 #    twitter: jekyllrb
 #    github:  jekyll
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
+#
