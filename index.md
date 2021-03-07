@@ -6,6 +6,9 @@
 
 
 Prigent, A., Lübbecke, J.F., Bayr, T., Latif M., Wengel C., Weakened SST variability in the tropical Atlantic Ocean since 2000. Clim Dyn 54, 2731–2744 (2020). https://doi.org/10.1007/s00382-020-05138-0
+
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
