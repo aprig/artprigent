@@ -11,7 +11,7 @@ google_analytics: G-Q1B2B0RWW1 # your Google Analytics tracking ID here
 #    twitter: jekyllrb
 #    github:  jekyll
 
-#plugins:
+plugins:
 # - jekyll-feed
  - jekyll-seo-tag
 #
